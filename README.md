@@ -1,6 +1,6 @@
 # Luck vs Skill — A Cricket Data Story
 
-A data-driven exploration of the 2016 ICC T20 World Cup Final between **Carlos Brathwaite** and **Ben Stokes** — to understand whether *luck* plays a role in success.
+A data-driven exploration of the 2016 ICC T20 World Cup Final between England and West Indies, where Carlos Brathwaite hit four consecutive sixes off Ben Stokes to seal a famous win.
 
 ## 📘 Notebooks
 - `brathwaite_luck_analysis.ipynb` – Match-by-match batting analysis of Carlos Brathwaite (pre vs post 2016)
